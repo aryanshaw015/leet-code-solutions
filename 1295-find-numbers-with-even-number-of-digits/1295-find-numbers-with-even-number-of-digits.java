@@ -3,6 +3,12 @@ class Solution {
         int count=0;int c=0;int a=0;
         for(int i=0;i<nums.length;i++){
             a=nums[i];
+            if(a<0){
+                a=a*-1;
+            }
+            if(a==0){
+                c++;
+            }
             while(a>0){
                 c++;
                 a=a/10;
@@ -10,6 +16,7 @@ class Solution {
             if(c%2==0){
                 count++;
             }
+            
             c=0;
         }
         return count;
