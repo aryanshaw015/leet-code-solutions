@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/aryanshaw015/dsa-journey/tree/master/0001-two-sum) |
 | [0832-flipping-an-image](https://github.com/aryanshaw015/dsa-journey/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/aryanshaw015/dsa-journey/tree/master/0867-transpose-matrix) |
+| [0989-add-to-array-form-of-integer](https://github.com/aryanshaw015/dsa-journey/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryanshaw015/dsa-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1572-matrix-diagonal-sum](https://github.com/aryanshaw015/dsa-journey/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/aryanshaw015/dsa-journey/tree/master/1672-richest-customer-wealth) |
@@ -15,6 +16,7 @@
 ## Math
 |  |
 | ------- |
+| [0989-add-to-array-form-of-integer](https://github.com/aryanshaw015/dsa-journey/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryanshaw015/dsa-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
