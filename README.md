@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryanshaw015/dsa-journey/tree/master/0001-two-sum) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aryanshaw015/dsa-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/aryanshaw015/dsa-journey/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/aryanshaw015/dsa-journey/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/aryanshaw015/dsa-journey/tree/master/0989-add-to-array-form-of-integer) |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryanshaw015/dsa-journey/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aryanshaw015/dsa-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
